@@ -1,4 +1,4 @@
-# Getlaka-company_detail-scraper
+# Getlaka scraper
 This script will fetch all company details in excel form
 
 ## How to use
